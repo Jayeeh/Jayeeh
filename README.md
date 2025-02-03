@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 "I'm a specialist who believes in depth over breadth, and I've chosen to master web development as my area of expertise.
 
