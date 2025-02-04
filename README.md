@@ -5,6 +5,12 @@
 </p>
 <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="GitHub Banner" width="100%" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayeeh/Jayeeh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayeeh/Jayeeh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Jayeeh/Jayeeh/output/github-snake.svg" />
+</picture>
+
 <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h3>
 
 
@@ -22,11 +28,6 @@ Depth-driven web development specialist committed to mastering the craft of crea
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeeh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayeeh/Jayeeh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayeeh/Jayeeh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Jayeeh/Jayeeh/output/github-snake.svg" />
-</picture>
 
 
 ---
