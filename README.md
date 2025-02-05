@@ -42,7 +42,7 @@
 
 
 
-### <img src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/stats.gif?raw=true" width="30"> GitHub Stats:
+### <img src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/stats.gif?raw=true" width="30">  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeeh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
