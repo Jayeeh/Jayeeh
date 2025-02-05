@@ -32,7 +32,7 @@
 </div>
 
 
-### 👨🏻‍💻 &nbsp;About Me:
+### <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/rockstar.gif" width="40px"> &nbsp;About Me:
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 •	👀 I’m passionate about full-stack web development. <br>
 •	🌱 Currently improving my skills in PHP and the Laravel framework and JavaScript and TypeScript with it’s framework React.JS, Node.JS, Express.JS, ReactNative and Nest.JS. <br>
@@ -42,7 +42,7 @@
 
 
 
-### 📊 GitHub Stats:
+### <img src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/stats.gif?raw=true" width="30"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeeh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
