@@ -39,8 +39,8 @@
 ### <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/rockstar.gif" width="40px"> &nbsp;About Me:
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 •	👀 I’m passionate about full-stack web development. <br>
-•	🌱 Currently improving my skills in PHP and the Laravel framework and JavaScript and TypeScript with it’s framework React.JS, Node.JS, Express.JS, ReactNative and Nest.JS. <br>
-•	💼 My main expertise lies in web developing for business solution and problem solution. <br>
+•	🌱 Currently improving my skills in PHP and it's framework Laravel, then JavaScript and TypeScript with it’s framework React.JS, Node.JS, Express.JS, ReactNative and Nest.JS. <br>
+•	💼 My main expertise lies in web developing for business solution and problem solving. <br>
 •	🔧 I create custom landing page and others. <br>
 •	💞️ I’m open to collaborating on open-source projects and practical web application development. <br>
 
