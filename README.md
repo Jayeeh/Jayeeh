@@ -3,6 +3,10 @@
 
 <div align="center">
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Front-End+Developer;Back-End+Developer;" alt="Typing SVG" />
+</p
+
   
   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4GNcgRfm) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/erroljustine.casbadillo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/justinecasbadillo23/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/errol-justine-casbadillo-295506312/)
 
@@ -12,9 +16,7 @@
 
 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Front-End+Developer;Back-End+Developer;" alt="Typing SVG" />
-</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,20,26&height=60&section=footer" width="100%"/>
 <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="GitHub Banner" width="100%" />
 
